@@ -1,0 +1,1 @@
+export const api = 'http://dev3.dansmultipro.co.id/api/recruitment';
